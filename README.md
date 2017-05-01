@@ -1,2 +1,1 @@
-# udacity-band
-My Projects for the Business Analyst Nanodegree
+# My Projects for the Udacity Business Analyst Nanodegree
