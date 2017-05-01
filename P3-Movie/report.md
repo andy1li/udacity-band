@@ -13,7 +13,7 @@ https://public.tableau.com/profile/publish/VisualizingMovieData_0/Q1
 
 - #### **Question 2 Story:** How do the attributes differ between Universal Pictures and Paramount Pictures?
 
-  Paramoun's movies tended to perform more extremely than those of Universal, as it has the top 3 highest grossing genres (Adventure, Science Fiction and Action) and also the lowest one (Western) excluding the outlier Foreign genre. In general, Paramount beats Universal financially in 14 out of the 20 total genres (with the exceptions of Animation, Fantasy, Family, War, Horror and Western). And Paramount has a larger share of the top 100 grossing movies made by all companies.
+  A detailed breakdown of the two companies' movies in every genre is difficult to interpret. In general, Paramount beats Universal financially in 14 out of the 20 total genres (with the exceptions of Animation, Fantasy, Family, War, Horror and Western). And Paramount has a larger share of the top 100 grossing movies made by all companies.
 
   ---
 
